@@ -37,8 +37,8 @@ IDE (e.g. IntelliJ IDEA, Eclipse) or you can build/run from command line
 
 MySQL Connector/J JDBC driver in classpath
 
+![ID Image](https://github.com/user-attachments/assets/2af5dabd-b5fc-4772-a137-c8d6840e8f81)
 
+![questionImage](https://github.com/user-attachments/assets/8b8dd9cb-e74c-418f-ac4a-5891e569b951)
 
-![InsertData](https://github.com/user-attachments/assets/77398947-19ad-496b-bb83-a3cc0d032d52)
-![SuccessfulMessage](https://github.com/user-attachments/assets/ff3913b6-acea-4e7d-99f9-53248fa49ac5)
-![ViewData](https://github.com/user-attachments/assets/aab02816-c20a-438a-a49f-1e66e6de4ddc)
+![Score pic](https://github.com/user-attachments/assets/e0465bb2-0939-482a-bb23-bfb01dae4f99)
